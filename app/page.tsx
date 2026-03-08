@@ -45,9 +45,6 @@ export default function Home() {
 </header>
 {/* HERO */}
 <section className="pt-28 pb-20 sm:pb-24 px-6 max-w-7xl mx-auto">
-  <p className="text-[11px] tracking-[0.4em] uppercase text-[#C0A062]">
-    A Parent Company of TRUST Property Management
-  </p>
 
   <h2 className="mt-6 text-5xl sm:text-6xl md:text-7xl font-serif font-semibold tracking-tight leading-[1.05] max-w-4xl">
     Institutional Property Management in California
@@ -94,7 +91,7 @@ export default function Home() {
           </p>
 
           <p className="mt-6 text-white/75 leading-8 max-w-3xl">
-            TRUST Property Management functions as the performance engine of the platform,
+            Axiom8 Operating Platform Execution functions as the performance engine of the platform,
             delivering disciplined execution, transparent reporting, and structured cost control
             without compromising resident experience.
           </p>
@@ -137,7 +134,7 @@ export default function Home() {
 
 <div className="card-motion reveal rounded-2xl bg-white/[0.06] p-8 ring-1 ring-white/10 shadow-[0_20px_60px_rgba(0,0,0,0.35)] transition duration-300 ease-out hover:bg-white/[0.08] hover:-translate-y-1 hover:shadow-[0_30px_80px_rgba(0,0,0,0.45)]">
   <h3 className="text-[20px] font-semibold text-white font-serif tracking-tight">
-    TRUST Property Management (Operating Division)
+    Operating Platform Execution
   </h3>
             <ul className="mt-6 space-y-5 text-[15px] leading-7 text-white/85">
               <li>
@@ -242,7 +239,7 @@ export default function Home() {
      <footer className="border-t border-white/10 py-12 text-sm text-white/60">
         <div className="max-w-7xl mx-auto px-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <div>
-            © {new Date().getFullYear()} Axiom8 Real Estate · A Parent Company of TRUST Property Management
+            © {new Date().getFullYear()} Axiom8 Real Estate 
           </div>
           <div>
             California Licensed Real Estate Broker · DRE# 02071085
