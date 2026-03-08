@@ -109,7 +109,7 @@ export default function Home() {
 
 <div className="card-motion reveal rounded-2xl bg-white/[0.05] p-8 ring-1 ring-white/10 shadow-[0_10px_30px_rgba(0,0,0,0.30)] transition duration-300 ease-out hover:bg-white/[0.08] hover:-translate-y-1 hover:shadow-[0_30px_80px_rgba(0,0,0,0.45)]">
   <h3 className="text-[20px] font-semibold text-white">
-    Axiom8 Real Estate (Platform)
+    Axiom8 Real Estate Platform
   </h3>
 
     <ul className="mt-6 space-y-5 text-[15px] leading-7 text-white/85">
