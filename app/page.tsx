@@ -12,7 +12,7 @@ export default function Home() {
 
     {/* Logo */}
     <div className="text-white font-serif text-base tracking-tight font-medium">
-      Axiom8 Real Estate
+      Innovated Property Solutions
     </div>
 
     {/* Nav Links */}
@@ -84,14 +84,14 @@ export default function Home() {
           </h3>
 
           <p className="mt-6 text-white/75 leading-8 max-w-3xl">
-            Axiom8 Real Estate operates with an institutional framework designed to
+            IPS Real Estate operates with an institutional framework designed to
             maximize Net Operating Income, reduce operational volatility, and preserve
             long-term asset value. Our structure integrates brokerage insight,
             asset-level analytics, and operational execution under one coordinated platform.
           </p>
 
           <p className="mt-6 text-white/75 leading-8 max-w-3xl">
-            Axiom8 Operating Platform Execution functions as the performance engine of the platform,
+            IPS Operating Platform Execution functions as the performance engine of the platform,
             delivering disciplined execution, transparent reporting, and structured cost control
             without compromising resident experience.
           </p>
@@ -109,7 +109,7 @@ export default function Home() {
 
 <div className="card-motion reveal rounded-2xl bg-white/[0.05] p-8 ring-1 ring-white/10 shadow-[0_10px_30px_rgba(0,0,0,0.30)] transition duration-300 ease-out hover:bg-white/[0.08] hover:-translate-y-1 hover:shadow-[0_30px_80px_rgba(0,0,0,0.45)]">
   <h3 className="text-[20px] font-semibold text-white">
-    Axiom8 Real Estate Platform
+    IPS Real Estate Platform
   </h3>
 
     <ul className="mt-6 space-y-5 text-[15px] leading-7 text-white/85">
@@ -168,7 +168,7 @@ export default function Home() {
   </h3>
 
   <p className="mt-6 text-white/75 leading-8 max-w-2xl">
-    Axiom8 Real Estate operates under a disciplined performance framework
+    IPS Real Estate operates under a disciplined performance framework
     designed to increase Net Operating Income through revenue optimization,
     delinquency control, cost containment, and asset preservation.
   </p>
@@ -226,7 +226,7 @@ export default function Home() {
 
 <div className="mt-12">
   <a
-    href="mailto:info@axiom8re.com"
+    href="mailto:office@innovatedpropertysolution.com.com"
     className="inline-block rounded-2xl px-8 py-4 text-sm font-semibold shadow-[0_20px_60px_rgba(0,0,0,0.35)] transition duration-300 hover:-translate-y-1 hover:shadow-[0_35px_90px_rgba(0,0,0,0.5)] active:scale-[0.98]"
     style={{ backgroundColor: "#C0A062", color: "#0A1F44" }}
   >
@@ -239,10 +239,10 @@ export default function Home() {
      <footer className="border-t border-white/10 py-12 text-sm text-white/60">
         <div className="max-w-7xl mx-auto px-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <div>
-            © {new Date().getFullYear()} Axiom8 Real Estate 
+            © {new Date().getFullYear()} IPS Real Estate 
           </div>
           <div>
-            California Licensed Real Estate Broker · DRE# 02071085
+            California Licensed Real Estate Broker · DRE# 
           </div>
         </div>
       </footer>
